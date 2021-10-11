@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="color_clever">#F47A2F</color>
+    <color name="brown">#CDDC39</color>
+    <color name="barDarkColor">#FFC107</color>
+    <color name="color_cleve">#E1FBC3</color>
+    <color name="barLightColor">#DDEA63</color>
+    <color name="color_c">#A9C8B8</color>
+    <color name="color_blue">#030C43</color>
+    <color name="color_loved">#E0E0E0</color>
+
+    <color name="sendLightColor">#8897BF</color>z
+    <color name="sendMeduimColor">#5D6CA5</color>
+    <color name="sendDarkColor">#515F9F</color>
+    <color name="red">#7C0505</color>
+
+    <color name="textColorPrimary">#442C2E</color>
+    <color name="toolbarIconColor">@color/textColorPrimary</color>
+    <color name="textInputOutlineColor">#FBB8AC</color>
+
+    <color name="colorPrimary">#000</color>
+    <color name="colorPrimaryDark">#6a6a6a</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="primarytextcolor">#6a6a6a</color>
+    <color name="secoundarytextcolor">#9b9b9b</color>
+    <color name="thirdtextcolor">#878787</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000</color>
+    <color name="button_color">#3b9792</color>
+</resources>
